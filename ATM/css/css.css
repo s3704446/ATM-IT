@@ -1,0 +1,43 @@
+body {
+    margin: 40px; 
+    background-color: #fdfaf3;       
+}
+
+#logo{
+    background-color: #ADD8E6;
+    padding:30px;
+    text-align: center;
+    font-size: 80px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin-bottom: 5px;
+}
+
+.content {
+    grid-area: content;
+    position: relative;
+    margin-top: 5px;
+    background-color: #F5FFFA;
+}
+
+h2{
+    background-color: #AFEEEE;
+    padding:10px;
+}
+
+header {
+    grid-area: header;
+    background-color: rgb(226, 149, 72);
+    margin-top: 5px;
+    text-align: center;
+    padding: 20px;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+footer {
+    grid-area: footer;
+    background-color: rgb(209, 209, 209);
+    margin-top: 5px;
+    text-align: center;
+    padding:5px;
+}
+

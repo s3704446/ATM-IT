@@ -24,6 +24,10 @@ h2{
     padding:10px;
 }
 
+p{
+    margin:20px;
+}
+
 header {
     grid-area: header;
     background-color: rgb(226, 149, 72);

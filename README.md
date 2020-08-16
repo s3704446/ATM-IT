@@ -2,9 +2,9 @@
 
 | Name  | Number of pushes |
 | ------------- | ------------- |
-| Yuliang Lei  | Content Cell  |
-| Qiheng Chen  | Content Cell  |
-| Deyang Bao  | Content Cell  |
-| Zhentao Ma | Content Cell  |
-| Haoming Tian  | Content Cell  |
-| Zixun Zhou  | Content Cell  |
+| Yuliang Lei  | 0  |
+| Qiheng Chen  | 0  |
+| Deyang Bao  | 0  |
+| Zhentao Ma | 0  |
+| Haoming Tian  | 0  |
+| Zixun Zhou  | 0  |

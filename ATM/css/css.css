@@ -24,7 +24,13 @@ h2{
     padding:10px;
 }
 
-img{
+.members{
+    height: 20%;
+    width: 20%;
+    margin-left: 40%;
+}
+
+.features{
     height: 20%;
     width: 20%;
     margin-left: 40%;
@@ -32,6 +38,11 @@ img{
 
 p{
     margin:20px;
+}
+
+#diagram{
+    width:60%;
+    margin-left:20%;
 }
 
 header {

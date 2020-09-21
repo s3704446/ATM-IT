@@ -45,6 +45,23 @@ p{
     margin-left:20%;
 }
 
+td{
+    text-align: center;
+}
+
+.grey{
+    background-color: grey;
+    color:white;
+}
+.light-grey{
+    background-color: rgb(179, 179, 179);
+    color:white;
+}
+.pink{
+    background-color: rgb(143, 118, 122);
+    color:white;
+}
+
 header {
     grid-area: header;
     background-color: rgb(226, 149, 72);

@@ -36,6 +36,13 @@ h2{
     margin-left: 40%;
 }
 
+.progress-img{
+    width:15%;
+    display: inline-block;
+    text-align: center;
+    margin-left: 20%;
+}
+
 p{
     margin:20px;
 }

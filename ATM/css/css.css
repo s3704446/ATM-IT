@@ -36,11 +36,31 @@ h2{
     margin-left: 40%;
 }
 
+#scope td, #scope th{
+border: 1px solid black;
+padding:8px;
+}
+
+#scope th{
+    background-color: rgb(201, 145, 42);
+    color:white;
+    padding:5px;
+}
+
+.function{
+    background-color: rgb(221, 221, 221);
+}
+
 .progress-img{
     width:15%;
     display: inline-block;
     text-align: center;
     margin-left: 20%;
+}
+
+.progress-center{
+    width:50%;
+    margin-left:25%;
 }
 
 p{

@@ -2,9 +2,9 @@
 
 | Name  | Number of pushes |
 | ------------- | ------------- |
-| Yuliang Lei  | 2  |
-| Qiheng Chen  | 2  |
-| Deyang Bao  | 2  |
-| Zhentao Ma | 1  |
-| Haoming Tian  | 2  |
-| Zixun Zhou  | 4  |
+| Yuliang Lei  | 35  |
+| Qiheng Chen  | 4  |
+| Deyang Bao  | 1  |
+| Zhentao Ma | 5  |
+| Haoming Tian  | 1  |
+| Zixun Zhou  | 1  |
